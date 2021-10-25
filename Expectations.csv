@@ -1,0 +1,17 @@
+Code,Topic,Expectation,Description - The student is...,Basic,Intermediate,Advanced
+,Circuits,Simple Circuits,,,,
+,Circuits,Ohm's Law,,,,
+,Circuits,Kirchoff's Laws,,,,
+,Circuits,Resistors,,,,
+,Circuits,Electronic Components,,,,
+ARD1.1,Arduino,Properties Test,"Able to describe the main atributes of an Arduino Uno including Power Requirement, and the locations of the Digital Pins, Analog Pins, Power and Ground Pins.",With 3-4 Errors,With 1 - 2 Errors,All Correct
+ARD1.2,Arduino,Digital Pins - Output,,,,
+ARD1.3,Arduino,Digital Pins - Input,,,,
+ARD1.4,Arduino,IDE,,,,
+ARD1.5,Arduino,PWM,,,,
+ARD1.6,Arduino,Analog Input Pin,,,,
+,,,,,,
+,Sensors,HC-SR04 Ultrasonic Sensore,,,,
+,,,,,,
+,Motors,L298N H-Bridge,,,,
+,Motors,L293D H-Bridge,,,,
