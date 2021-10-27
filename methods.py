@@ -16,3 +16,15 @@ class Expectation:
         Intermediate: {self.intermediate}\n
         Advanced: {self.advanced}\n\n\n"""
         return outString
+
+class Student:
+    def __init__(self, fName, lName):
+        self.fName = fName
+        self.lName = lName
+
+class TheClass:
+    def __init__(self, className, grade, timeFrame):
+        self.className = className
+        self.grade = grade
+        self.timeFrame = timeFrame
+        
